@@ -1,12 +1,10 @@
-# Final Project
+# Final Project December, 2022
 
 This is a **group assignment**.
 
 ## Code Implementation & Technical Report
 
 The final deliverables include a 4-page IEEE-format report, code implementation and a detailed GitHub readme file.
-
-The final project is due Tuesday, December 6 @ 11:59 PM. Find the complete [rubric](https://ufl.instructure.com/courses/455013/assignments/5244219) in the Canvas assignment.
 
 ## Training Data
 
